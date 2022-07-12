@@ -13,12 +13,12 @@ title: Punyanith's Resume
 <!-- https://www.monique.tech/the-art-of-markdown -->
 ## Education
 
-`2015 - 2017`
+`June 2015 - June 2017`
 A.A - Direct Transfer Agreement
 __Edmond Community College__, Edmonds, WA
 - 3.2 GPA
 
-`Expected April 2023`
+`April 2021 - April 2023`
 B.S. - Computer Science
 __Brigham Young University - Idaho__, Rexburg, ID
 
